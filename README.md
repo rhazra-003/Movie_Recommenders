@@ -1,3 +1,3 @@
-## Movie_Recommender_Systems
+## Movie_Recommenders
 
 ### WIP. Will be updated later.
